@@ -1,6 +1,6 @@
 STUDENT WORKSHEET: SDLC, AGILE, DEVOPS & GIT FOUNDATIONS
 
-Course Code / Subject: Computer Engineering
+Course Code / Subject: Software Engineering
 Student Name: John Rafael D. Sullera
 Date: August 29, 2026  	Section: BSIT 3.5
 
