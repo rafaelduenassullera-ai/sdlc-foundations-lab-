@@ -2,7 +2,7 @@ STUDENT WORKSHEET: SDLC, AGILE, DEVOPS & GIT FOUNDATIONS
 
 Course Code / Subject: Computer Engineering
 Student Name: John Rafael D. Sullera
-Date: August 29, 2026  	Section: BSIT 2.5
+Date: August 29, 2026  	Section: BSIT 3.5
 
 GitHub Repository URL: https://github.com/rafaelduenassullera-ai/sdlc-foundations-lab-
 
